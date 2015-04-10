@@ -1,5 +1,5 @@
 {
-  "name": "SimpleExpressServerForHeroku",
+  "name": "YourProject",
   "version": "0.1.0",
   "description": "A simple server based on Node.js and Express for deployment on Heroku",
   "main": "web.js",
@@ -18,7 +18,7 @@
   "author": "David M. Anderson",
   "license": "GPL 3.0",
   "bugs": {
-    "url": "https://github.com/davidand36/SimpleExpressServerForHeroku/issues"
+    "url": "https://github.com/cyneng/YourProject"
   },
   "engines": {
       "node": "0.10.x"
