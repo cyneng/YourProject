@@ -1,29 +1,29 @@
 {
-  "name": "YourProjec",
+  "name": "YourProject",
   "version": "0.1.0",
-  "description": "A simple server based on Node.js and Express for deployment on Heroku",
+  "description": "A monthly/weekly checklist where the checkmarks are cached until user decides to flush it.",
   "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidand36/SimpleExpressServerForHeroku.git"
+    "url": "https://github.com/cyneng/YourProject.git"
   },
   "keywords": [
     "express",
     "static",
     "heroku"
   ],
-  "author": "David M. Anderson",
+  "author": "Cyndy Eng-Dinsel",
   "license": "GPL 3.0",
   "bugs": {
-    "url": "https://github.com/davidand36/SimpleExpressServerForHeroku/issues"
+    "url": "https://github.com/cyneng/YourProject/issues"
   },
   "engines": {
       "node": "0.10.x"
   },
-  "homepage": "https://github.com/davidand36/SimpleExpressServerForHeroku",
+  "homepage": "https://github.com/cyneng/YourProject",
   "dependencies": {
     "compression": "^1.0.9",
     "express": "^4.7.2",
