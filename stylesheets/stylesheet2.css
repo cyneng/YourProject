@@ -1,5 +1,5 @@
 body {
-  background-color: #f5f5f5;
+  background-color :#f5f5f5;
   width: 600px;
   margin: 0 auto;
   padding: 0;
@@ -10,7 +10,7 @@ h4 {
   letter-spacing: -2px;
   text-align: left;
 }
-.monthlyChecklist {
+.list {
   color: #555;
   font-size: 22px;
   padding: 0 !important;
@@ -37,7 +37,7 @@ h4 {
   border-left: 1px solid #ffaa9f;
   border-right: 1px solid #ffaa9f;
   width: 2px;
-/*  float: left;*/
+  float: left;
   height: 495px;
   margin-left: 40px;
 }
